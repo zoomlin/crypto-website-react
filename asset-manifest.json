@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/zoomlin/crypto-website-react/static/css/main.c1007376.css",
+    "main.js": "/zoomlin/crypto-website-react/static/js/main.b0ddb2e1.js",
+    "static/media/newsletter-bg.png": "/zoomlin/crypto-website-react/static/media/newsletter-bg.a5d5358de8e84afe98cb.png",
+    "static/media/hero-img.png": "/zoomlin/crypto-website-react/static/media/hero-img.bc2cc512f513aaa9f0bf.png",
+    "static/media/feature-2-img.png": "/zoomlin/crypto-website-react/static/media/feature-2-img.cf233659a120d86cd676.png",
+    "static/media/feature-3-img.png": "/zoomlin/crypto-website-react/static/media/feature-3-img.5df40cff033a1a81e9d1.png",
+    "static/media/why-img.png": "/zoomlin/crypto-website-react/static/media/why-img.83f7e1610dd390441337.png",
+    "static/media/feature-1-img.png": "/zoomlin/crypto-website-react/static/media/feature-1-img.3ebec6b2c18fd2e8cb8f.png",
+    "static/media/newsletter-box.png": "/zoomlin/crypto-website-react/static/media/newsletter-box.dd5db68847295ec1ef17.png",
+    "static/media/logo.svg": "/zoomlin/crypto-website-react/static/media/logo.e44a93b92960b7a7a870e08a3080d60e.svg",
+    "index.html": "/zoomlin/crypto-website-react/index.html",
+    "main.c1007376.css.map": "/zoomlin/crypto-website-react/static/css/main.c1007376.css.map",
+    "main.b0ddb2e1.js.map": "/zoomlin/crypto-website-react/static/js/main.b0ddb2e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1007376.css",
+    "static/js/main.b0ddb2e1.js"
+  ]
+}
